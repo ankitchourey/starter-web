@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ankit Chourey ankitchourey141@gmail.com
 
 # THANKS
 
